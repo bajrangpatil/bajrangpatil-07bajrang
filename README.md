@@ -20,5 +20,6 @@ https://user-images.githubusercontent.com/89211232/140159838-8028f919-d15f-4b3d-
 ![instagram](https://user-images.githubusercontent.com/89211232/140173274-ed00d140-5564-4466-9e6c-8768f30a8263.jpeg)
 ![facebook](https://user-images.githubusercontent.com/89211232/140173269-f2f722d1-e174-40b7-88d1-1f291f6aeec4.jpeg)
 ![call](https://user-images.githubusercontent.com/89211232/140173265-e438b689-5736-4839-ba23-12b00ed4ac01.jpg)
+![twitter](https://user-images.githubusercontent.com/89211232/140175346-8954dc1d-cc81-43d5-8392-66c683205922.png)
 
 
