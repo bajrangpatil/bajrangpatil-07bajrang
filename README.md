@@ -8,6 +8,8 @@ https://user-images.githubusercontent.com/89211232/140159838-8028f919-d15f-4b3d-
 ![portfolio](https://user-images.githubusercontent.com/89211232/140167558-c5e61e75-6213-435d-98ff-4c3d6b0dd2fc.jpg)
 
 ![Arduino-Light-Sensor-Circuit-using-LDR](https://user-images.githubusercontent.com/89211232/140167584-77a2364e-836a-4c85-ba58-834ea1720f5a.jpg)
-
+![softwareDevelopement](https://user-images.githubusercontent.com/89211232/140169008-6d03b978-f7f0-4fca-863c-1d718f23e465.png)
+![webdevelopement](https://user-images.githubusercontent.com/89211232/140169015-e026a66a-e27f-42c6-8460-27308662e360.png)
+![androiddevelopement](https://user-images.githubusercontent.com/89211232/140169021-57be6dc3-8ea2-41fe-84aa-c38a063008f8.png)
 
 
