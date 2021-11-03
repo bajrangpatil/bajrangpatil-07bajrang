@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/89211232/140159838-8028f919-d15f-4b3d-
 ![webdevelopement](https://user-images.githubusercontent.com/89211232/140169015-e026a66a-e27f-42c6-8460-27308662e360.png)
 ![androiddevelopement](https://user-images.githubusercontent.com/89211232/140169021-57be6dc3-8ea2-41fe-84aa-c38a063008f8.png)
 ![problemsolvinglogo](https://user-images.githubusercontent.com/89211232/140169762-1459c058-45a5-46db-a102-4b0802fd2cce.png)
+![d8](https://user-images.githubusercontent.com/89211232/140172226-b8be6a8a-fc34-44d3-a1bd-f8ef3e5cc621.jpg)
 
 ![project1](https://user-images.githubusercontent.com/89211232/140170169-4ebc52cd-270c-4696-a094-81dadb5c38eb.png)
 
