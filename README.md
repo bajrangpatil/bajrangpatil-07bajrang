@@ -21,5 +21,6 @@ https://user-images.githubusercontent.com/89211232/140159838-8028f919-d15f-4b3d-
 ![facebook](https://user-images.githubusercontent.com/89211232/140173269-f2f722d1-e174-40b7-88d1-1f291f6aeec4.jpeg)
 ![call](https://user-images.githubusercontent.com/89211232/140173265-e438b689-5736-4839-ba23-12b00ed4ac01.jpg)
 ![twitter](https://user-images.githubusercontent.com/89211232/140175346-8954dc1d-cc81-43d5-8392-66c683205922.png)
+[Bajrang's Resume.pdf](https://github.com/bajrangpatil/bajrangpatil-07bajrang/files/7474266/Bajrang.s.Resume.pdf)
 
 
